@@ -1,0 +1,50 @@
+div
+{
+    display: block;
+}
+.mod_singer_tag
+{
+    background-color: #fbfbfd;
+    padding: 34px 0 17px 40px;
+    margin: 30px 0 20px;
+}
+.sing_tag__list
+{
+    padding-bottom: 3px;
+    height: auto;
+    zoom: 1;
+    clear: both;
+    overflow: hidden;
+}
+.singer_tag__item--select,
+.singer_tag__item--select:hover
+{
+    background-color: #31c27c;
+    color: #fff;
+}
+.singer_tag__item--all
+{
+    margin-right: 28px;    
+}
+.singer_tag__item
+{
+    height: 26px;
+    line-height: 27px;
+    overflow: hidden;
+    float: left;
+    padding: 0 8px;
+    margin: 0 12px 14px 0;
+}
+.singer_tag_item
+{
+    float: left;
+    height: 26px;
+    line-height: 27px;
+    overflow: hidden;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 0 8px;
+    margin: 0 12px 14px 0;
+
+}
