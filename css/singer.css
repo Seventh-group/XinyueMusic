@@ -48,3 +48,31 @@ div
     margin: 0 12px 14px 0;
 
 }
+.mod_singer_list
+{
+    overflow: hidden;
+    text-align: center;
+}
+.singer_list__list
+{
+    margin-right: -20px;
+    overflow: hidden;
+    zoom: 1;
+    margin-bottom: 4px;
+}
+.singer_list__item
+{
+    float: left;
+    width: 20%;
+    margin-bottom: 20px;
+    overflow: hidden;    
+}
+.singer_list__item_box
+{
+ position: relative;
+ margin-right: 20px;
+ background-color: #fbfbfd;
+ min-height: 195px;
+ padding: 25px 0;
+ overflow: hidden;
+}
