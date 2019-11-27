@@ -1,0 +1,81 @@
+.mod_tag
+{
+    position: relative;
+    margin: 52px 0 0;
+}
+.tag__list
+{
+    position: relative;
+    height: auto;
+    zoom: 1;
+    clear: both;
+    overflow: hidden;
+    line-height: 25px;
+    padding-left: 65px;
+}
+.tag__item--select
+{
+background-color: #31c27c;
+color: #fff;
+}
+.tag__item
+{
+    float: left;
+    padding: 0 8px;
+    margin: 0 24px 15px 0;
+}
+.mod_singer_list
+{
+    overflow: hidden;
+    text-align: center;
+}
+.singer_list__list
+{
+    margin-right: -20px;
+    overflow: hidden;
+    zoom: 1;
+    margin-bottom: 4px;
+}
+.singer_list__item
+{
+    float: left;
+    width: 20%;
+    margin-bottom: 20px;
+    overflow: hidden;    
+}
+.singer_list__item_box
+{
+ position: relative;
+ margin-right: 20px;
+ background-color: #fbfbfd;
+ min-height: 195px;
+ padding: 25px 0;
+ overflow: hidden;
+}
+.singer_list_txt
+{
+    margin-right: -20px;
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+.singer_list_txt__item
+{
+    float: left;
+    width: 20%;
+}
+.singer_list_txt__link
+{
+    float: left;
+    max-width: 90px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    line-height: 36px;
+}
+.center
+{
+    margin: auto;
+    width: 60%;
+    padding: 10;
+}

@@ -76,3 +76,30 @@ div
  padding: 25px 0;
  overflow: hidden;
 }
+.singer_list_txt
+{
+    margin-right: -20px;
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+.singer_list_txt__item
+{
+    float: left;
+    width: 20%;
+}
+.singer_list_txt__link
+{
+    float: left;
+    max-width: 90px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    line-height: 36px;
+}
+.center
+{
+    margin: auto;
+    width: 60%;
+    padding: 10;
+}
